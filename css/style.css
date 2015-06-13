@@ -314,7 +314,7 @@ h3 {
 #header {
 	text-align: center;
 	z-index: 90;
-	padding: 45px 50px;
+	padding: 14px 50px;
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -1347,8 +1347,8 @@ body.raindrops {
 }
 
 #site_logo img{
-/*  height: 35px;
-  width: 90px;*/
+  height: 70px;
+  width: 90px;
 }
 .contact-list-words{
     font-size: 17px;
